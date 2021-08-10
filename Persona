@@ -90,3 +90,4 @@ public class Persona {
 				+ ", nombre1=" + nombre1 + ", nombre2=" + nombre2 + ", fechaNac=" + fechaNac + ", clave=" + clave
 				+ ", email=" + email + "]";
 	}
+}
